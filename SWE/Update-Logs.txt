@@ -1,6 +1,0 @@
-December 19th, 2022: I reviewed the script one last time and found some code that could
-			result in a bug or skip a blocking function for messages. I had
-			over looked the findstr function needed in case a blocked user
-			sends a file a profile/user that has them blocked. All blocked
-			messages are sent to a designated folder for records to report
-			any harassment within the server/shared network.
